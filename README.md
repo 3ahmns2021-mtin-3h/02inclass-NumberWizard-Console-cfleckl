@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1
+# 02inclass-NumberWizard-Console-cfleckl
 
 ### Project description: 
 Introduction/Project summary 
